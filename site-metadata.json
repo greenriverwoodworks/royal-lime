@@ -10,13 +10,9 @@
     "has_social": true
   },
   "footer": {
-    "content": "&copy; Stackbit-Fjord. All rights reserved.",
+    "content": "&copy; Green River Woodworks. All rights reserved.",
     "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
+
     ]
   }
 }
